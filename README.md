@@ -1,5 +1,12 @@
+# Python Simple Calculator
 
-#Python Simple Calculator
+A beginner Python calculator built while learning Python.
 
-print("=== Simple Calculator ===")
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
+## Author
+Maria Nica Real Repe 
